@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myo-resume/static/css/main.5f361e03.chunk.css",
+    "main.js": "/myo-resume/static/js/main.73030ed2.chunk.js",
+    "main.js.map": "/myo-resume/static/js/main.73030ed2.chunk.js.map",
+    "runtime-main.js": "/myo-resume/static/js/runtime-main.1b154e68.js",
+    "runtime-main.js.map": "/myo-resume/static/js/runtime-main.1b154e68.js.map",
+    "static/js/2.992caa54.chunk.js": "/myo-resume/static/js/2.992caa54.chunk.js",
+    "static/js/2.992caa54.chunk.js.map": "/myo-resume/static/js/2.992caa54.chunk.js.map",
+    "index.html": "/myo-resume/index.html",
+    "precache-manifest.0c32a212d5a32aa7e2244f38e73fcd5f.js": "/myo-resume/precache-manifest.0c32a212d5a32aa7e2244f38e73fcd5f.js",
+    "service-worker.js": "/myo-resume/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/myo-resume/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.992caa54.chunk.js.LICENSE.txt": "/myo-resume/static/js/2.992caa54.chunk.js.LICENSE.txt",
+    "static/media/myo-logo1.svg": "/myo-resume/static/media/myo-logo1.a47c24e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b154e68.js",
+    "static/js/2.992caa54.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.73030ed2.chunk.js"
+  ]
+}
