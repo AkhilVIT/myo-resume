@@ -1,8 +1,6 @@
 {
   "name": "myo-resume",
-  "homepage": "https://AkhilVIT.github.io/myo-resume",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/styles": "^4.10.0",
